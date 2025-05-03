@@ -1,0 +1,8 @@
+{
+    "name":"zoritto/mvc",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
