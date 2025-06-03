@@ -4,7 +4,7 @@ namespace App\controller\Pages;
 
 use App\Utils\View;
 
-class Page
+class Pages
 {
     /* 
     Método responsável por renderizar o topo da página 
